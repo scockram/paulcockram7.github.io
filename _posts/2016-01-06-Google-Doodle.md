@@ -18,7 +18,7 @@ this is some test ****bolded**** xxx
 one
 
 
-![alt text]({{ site.baseurl }}/01doodle/pizza.png "Pizza to be ")
+![alt text](![_config.yml]({{ site.baseurl }}/01doodle/pizza.png) "Pizza to be ")
 
 two
 
