@@ -14,6 +14,9 @@ this is some test ****bolded**** xxx
 ![_config.yml]({{ site.baseurl }}/images/crosstemp.jpg)
 
 
-![_config.yml]({{ site.baseurl }}/gdoodle/donut.png)
+![_config.yml]({{ site.baseurl }}/01doodle/pizza.png)
+
+
+some more text
 
 
