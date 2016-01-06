@@ -8,6 +8,6 @@ published: true
 Make a doodle
 
 
-![_config.yml]({{ site.baseurl }}/gdoodle/example completed simpson google.png)
+![_config.yml]({{ site.baseurl }}/gdoodle/donut.png)
 
 
