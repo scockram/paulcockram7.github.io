@@ -7,23 +7,18 @@ published: true
 
 Make a doodle
 
-this is some test ****bolded**** xxx
+![Alt textl]({{ site.baseurl }}/01doodle/example completed simpson google.png "Example of a completed google doodle")
 
 
 
 
-![_config.yml]({{ site.baseurl }}/01doodle/pizza.png) "Pizza to be downloaded"
-
-
-one
+### **Images you need to download**
 
 ![Alt textl]({{ site.baseurl }}/01doodle/pizza.png "Pizza to be downloaded")
 
+![Alt textl]({{ site.baseurl }}/01doodle/donut.png "Donut to be downloaded")
 
-two
 
-
-![_config.yml]({{ site.baseurl }}/01doodle/pizza 99.png)
 
 
 some more text
