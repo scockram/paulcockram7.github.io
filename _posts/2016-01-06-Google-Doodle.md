@@ -9,7 +9,7 @@ published: true
 ![Alt textl]({{ site.baseurl }}/01doodle/example completed simpson google.png "Example of a completed google doodle")
 
 
-	Download the [instructions]({{ site.baseurl }}/01doodle/google simpson instruction.pdf "Instructions to create the doodle in Fireworks")
+Download the [instructions]({{ site.baseurl }}/01doodle/google simpson instruction.pdf "Instructions to create the doodle in Fireworks")
 
 
 
@@ -28,6 +28,9 @@ published: true
 ### Teacher Resources
 
 [Walt & Wilf]({{ site.baseurl }}/01doodle/Walt_wilf.ppt  "Intro Walt and Wilf powerpoint")
+
 [student answer sheets for starter]({{ site.baseurl }}/01doodle/doodle answer sheet.docx  "student answer sheets for starter")
+
 [Doodle Starter]({{ site.baseurl }}/01doodle/google doodle starter v2.ppt  "powerpoint starter - probably need to be made current")
+
 
