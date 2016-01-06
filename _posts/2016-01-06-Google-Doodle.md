@@ -14,7 +14,14 @@ this is some test ****bolded**** xxx
 
 ![_config.yml]({{ site.baseurl }}/01doodle/pizza.png) "Pizza to be downloaded"
 
-![alt text] (![_config.yml]({{ site.baseurl }}/01doodle/pizza.png)) "Pizza to be down"
+
+one
+
+
+![alt text]({{ site.baseurl }}/01doodle/pizza.png "Pizza to be ")
+
+two
+
 
 ![_config.yml]({{ site.baseurl }}/01doodle/pizza 99.png)
 
