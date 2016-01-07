@@ -1,8 +1,9 @@
 ---
 published: true
 ---
+Use FireWorks 8 to create a Google Logo
 
-## **Google Doodle v2**
+## **Google Doodle v3**
 
 #### Below is an example of a completed Google Doodle that we are going to create
 
