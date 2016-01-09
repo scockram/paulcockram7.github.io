@@ -72,8 +72,8 @@ width: 1000px;
 <img onmouseover="preview.src=img5.src" name="img5" src={{site.baseurl}}{{sampledir}}googlepicnic.png alt="" />
 <img onmouseover="preview.src=img6.src" name="img6" src={{site.baseurl}}{{sampledir}}googlespace1.png alt="" />
 <img onmouseover="preview.src=img7.src" name="img7" src={{site.baseurl}}{{sampledir}}googlething.png alt="" />
-<img onmouseover="preview.src=img8.src" name="img8" src={{site.baseurl}}{{sampledir}}Halloweengooglesign.png alt="" />
-<img onmouseover="preview.src=img9.src" name="img9" src={{site.baseurl}}{{sampledir}}Untitled-2.png alt="" />
+<img onmouseover="preview.src=img8.src" name="img8" src={{site.baseurl}}{{sampledir}}Halloweengooglesign.jpg alt="" />
+<img onmouseover="preview.src=img9.src" name="img9" src={{site.baseurl}}{{sampledir}}Untitled-2.jpg alt="" />
 <img onmouseover="preview.src=img10.src" name="img10" src={{site.baseurl}}{{sampledir}}Y9example1.png alt="" />
 <img onmouseover="preview.src=img11.src" name="img11" src={{site.baseurl}}{{sampledir}}Y9example2.png alt="" />
 </div>
