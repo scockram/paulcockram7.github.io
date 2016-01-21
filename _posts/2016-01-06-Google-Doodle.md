@@ -4,7 +4,7 @@ published: true
 Use FireWorks 8 to create a Google Logo
 
 
-## **Google Doodle v3**
+## **Google Doodle V3**
 
 #### Below is an example of a completed Google Doodle that we are going to create
 
@@ -28,9 +28,9 @@ Use "Right Mouse Button" and Select "Save Image As" (or similar) to download the
 
 -[Walt & Wilf]({{ site.baseurl }}/01doodle/Walt_wilf.ppt  "Intro Walt and Wilf powerpoint")
 
--[student answer sheets for starter]({{ site.baseurl }}/01doodle/doodle answer sheet.docx  "Blank student answer sheets for starter")
+-[student answer sheets for starter]({{ site.baseurl }}/01doodle/doodle answer sheet.docx  "Blank student answer sheets for starter - to be printed")
 
--[Doodle Starter]({{ site.baseurl }}/01doodle/google doodle starter v2.ppt  "Powerpoint starter - probably need to be made current")
+-[Doodle Starter]({{ site.baseurl }}/01doodle/google doodle starter v2.ppt  "Powerpoint starter - will probably need to be made current")
 
 {% assign sampledir = "/01doodle/samples/" %}
 {% assign firstimage = "GOOGLE.png" %}
@@ -72,9 +72,10 @@ width: 1000px;
 <img onmouseover="preview.src=img5.src" name="img5" src={{site.baseurl}}{{sampledir}}googlepicnic.png alt="" />
 <img onmouseover="preview.src=img6.src" name="img6" src={{site.baseurl}}{{sampledir}}googlespace1.png alt="" />
 <img onmouseover="preview.src=img7.src" name="img7" src={{site.baseurl}}{{sampledir}}googlething.png alt="" />
+<img onmouseover="preview.src=img8.src" name="img8" src={{site.baseurl}}{{sampledir}}Y9example2.png alt="" />
 <img onmouseover="preview.src=img9.src" name="img9" src={{site.baseurl}}{{sampledir}}Untitled-2.jpg alt="" />
 <img onmouseover="preview.src=img10.src" name="img10" src={{site.baseurl}}{{sampledir}}Y9example1.png alt="" />
-<img onmouseover="preview.src=img8.src" name="img8" src={{site.baseurl}}{{sampledir}}Y9example2.png alt="" />
+
 </div>
 <div class="preview" align="center">
 <img name="preview" src={{site.baseurl}}{{sampledir}}{{firstimage}} alt=""/>
