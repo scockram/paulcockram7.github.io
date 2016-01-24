@@ -1,5 +1,6 @@
 ---
 published: true
+layout: page
 ---
 Use FireWorks 8 to create a Google Logo
 
