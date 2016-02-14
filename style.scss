@@ -35,8 +35,8 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
-  margin: 1em 0 15px;
+  line-height: 0.9;
+  margin: .5em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -242,8 +242,8 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: .5em;
+  border-bottom: 2px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -255,7 +255,7 @@ nav {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    padding: 0 .1em 1em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
@@ -267,7 +267,7 @@ nav {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 

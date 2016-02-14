@@ -26,18 +26,7 @@ Download the [Disasters Worksheet]({{ site.baseurl }}/02scratch/infamous compute
 
 
 
-<html>
-<head>
-<title> </title>
-<style type="text/css">
-body {
-background: #ffffff;
-border: 30px solid #ffffff;
-margin: 0;
-}
-</style>
-</head>
-</html>
+
 
 ### Teacher Resources
 
