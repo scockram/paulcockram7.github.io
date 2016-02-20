@@ -9,6 +9,7 @@ Excel Spreadsheet function VLOOKUP
 
 
 ## Excel Spreadsheet function VLOOKUP
+
 ### Exercises
 
 1. Vlookup [Instructions]({{ site.baseurl }}/05vlookup/Instructions_Catnip_Vlookup.doc "Download this and follow the instructions in the document to get started using the Vlookup Function")
