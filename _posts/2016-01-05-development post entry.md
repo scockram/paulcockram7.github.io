@@ -1,9 +1,14 @@
 ---
 published: true
+layout: page
 ---
 
 
 this is not to be USED - reserved for testing USE ONLY
+
+| A simple | table |
+| with multiple | lines|
+
 
 First Header | Second Header
 
@@ -54,6 +59,9 @@ Content in the first column | Content in the second column
 ### header three
 
 
+Granville Festival no instruct [Instructions]({{ site.baseurl }}/06excel/Granville_Festival.doc). blah blah
+
+
 THIS IS THE SECOND MY POST
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
@@ -63,3 +71,11 @@ this is some test ****bolded**** xxx
 ![_config.yml]({{ site.baseurl }}/images/cross1.png)
 
 ![_config.yml]({{ site.baseurl }}/images/crosstemp.jpg)
+
+### Granville Festival
+
+1. Granville Festival [Instructions] ({{ site.baseurl }}/06excel/Granville_Festival.doc 'Download this and follow the instructions in the document to get started with the Festival Task')
+1. Granville Festival no instruct [Instructions] ({{ site.baseurl }}/06excel/Granville_Festival.doc )
+2. Granville Festival [Spreadsheet] ({{ site.baseurl }}/06excel/Granville_Festival_task.xls "Download this and follow the instructions in the above document ") here
+2. Class grades [Spreadsheet] ({{ site.baseurl }}/06excel/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
+2. cat simple [Spreadsheet] ({{ site.baseurl }}/06excel/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")

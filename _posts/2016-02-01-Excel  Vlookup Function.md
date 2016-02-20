@@ -11,24 +11,24 @@ Excel Spreadsheet function VLOOKUP
 ## Excel Spreadsheet function VLOOKUP
 ### Exercises
 
-1. Vlookup [Instructions] ({{ site.baseurl }}/05vlookup/Instructions_Catnip_Vlookup.doc "Download this and follow the instructions in the document to get started using the Vlookup Function")
-2. Blank [Spreadsheet] ({{ site.baseurl }}/05vlookup/Orig_Catnip_VLookup.xlsx "Download this and follow the instructions in the previous document to implement the vlookup function")
-2. Class grades [Spreadsheet] ({{ site.baseurl }}/05vlookup/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
-2. cat simple [Spreadsheet] ({{ site.baseurl }}/05vlookup/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")
+1. Vlookup [Instructions]({{ site.baseurl }}/05vlookup/Instructions_Catnip_Vlookup.doc "Download this and follow the instructions in the document to get started using the Vlookup Function")
+2. Blank [Spreadsheet]({{ site.baseurl }}/05vlookup/Orig_Catnip_VLookup.xlsx "Download this and follow the instructions in the previous document to implement the vlookup function")
+2. Class grades [Spreadsheet]({{ site.baseurl }}/05vlookup/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
+2. cat simple [Spreadsheet]({{ site.baseurl }}/05vlookup/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")
 
 ### useful resources
-1. Excel [help] ({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup")
+1. Excel [help]({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup")
 
 What do you think HLOOKUP does ?
 
 
 ### Teacher Resources
 
-1. Demo [part done spreadsheet] ({{ site.baseurl }}/05vlookup/part_done_Catnip_VLookup.xlsx "Download this to demonstrate the use of vlookup ")
-2. Completed [spreadsheet] ({{ site.baseurl }}/05vlookup/all_done_Catnip_VLookup.xlsx "an example of the completed spreadsheet")
-3. starter plenary [functions quiz] ({{ site.baseurl }}/05vlookup/starter_plenary_functions.ppt "a simple yes/no Excel functions quiz")
-3. starter [complete vlookup quiz] ({{ site.baseurl }}/05vlookup/vlookup_buzzwords.ppt "buzzwords - find the vlookup answer")
-3. introduction [to vlookup] ({{ site.baseurl }}/05vlookup/vlookup_intro.ppt "Optional- single slide of vlookup to talk/walk through")
+1. Demo [part done spreadsheet]({{ site.baseurl }}/05vlookup/part_done_Catnip_VLookup.xlsx "Download this to demonstrate the use of vlookup ")
+2. Completed [spreadsheet]({{ site.baseurl }}/05vlookup/all_done_Catnip_VLookup.xlsx "an example of the completed spreadsheet")
+3. starter plenary [functions quiz]({{ site.baseurl }}/05vlookup/starter_plenary_functions.ppt "a simple yes/no Excel functions quiz")
+3. starter [complete vlookup quiz]({{ site.baseurl }}/05vlookup/vlookup_buzzwords.ppt "buzzwords - find the vlookup answer")
+3. introduction [to vlookup]({{ site.baseurl }}/05vlookup/vlookup_intro.ppt "Optional- single slide of vlookup to talk/walk through")
 
 
 
