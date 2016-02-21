@@ -14,10 +14,10 @@ Excel Spreadsheet function VLOOKUP
 
 1. Vlookup [Instructions]({{ site.baseurl }}/05vlookup/Instructions_Catnip_Vlookup.doc "Download this and follow the instructions in the document to get started using the Vlookup Function")
 2. Blank [Spreadsheet]({{ site.baseurl }}/05vlookup/Orig_Catnip_VLookup.xlsx "Download this and follow the instructions in the previous document to implement the vlookup function")
-2. Class grades [Spreadsheet]({{ site.baseurl }}/05vlookup/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
-2. cat simple [Spreadsheet]({{ site.baseurl }}/05vlookup/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")
+2. Class grades [Spreadsheet]({{ site.baseurl }}/06excel/classxx grades.xlsx "Download this and follow the instructions in the spreadsheet ")
+2. cat simple [Spreadsheet]({{ site.baseurl }}/06excel/Cats vlookup simple.xls "Download this and follow the instructions in the spreadsheet ")
 
-### useful resources
+### Useful resources
 1. Excel [help]({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup")
 
 What do you think HLOOKUP does ?

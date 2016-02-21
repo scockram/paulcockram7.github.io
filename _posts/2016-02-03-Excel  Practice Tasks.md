@@ -14,7 +14,7 @@ Excel Spreadsheet Practice Tasks
 	1.   Starter [Spreadsheet]({{ site.baseurl }}/06excel/01 lesson01_starter.xls "Download this and fill in the missing terms for the different parts of a spreadsheet ")
 	2. Overview/Intro [Powerpoint]({{ site.baseurl}}/06excel/lesson_01.ppt "Download this for lesson overview ")
 	2. Stage A [Instructions]({{ site.baseurl}}/06excel/01 instruct a stage01i.doc "Download this and follow the instructions ")
-	2. Stage B [Instructions]({{ site.baseurl}}/06excel/01 instruct a stage02.doc "Download this and follow the instructions ")
+	2. Stage B [Instructions]({{ site.baseurl}}/06excel/01 instruct b stage02.doc "Download this and follow the instructions ")
 	4. Online quiz [plenary](http://www.teach-ict.com/gcse_new/spreadsheets/spreadsheets/quiz/hoopshot_spreadsheets.htm "Have a go at the spreadsheet quiz")
 	5. Self Assessment [plenary]({{ site.baseurl}}/06excel/01 plenary assess01.doc "Download this and enter a minimum of 1 item in each box ")
 	7. Example of Completion of stage B (below)
@@ -32,12 +32,9 @@ Excel Spreadsheet Practice Tasks
 
 
 
-### Granville Festival
-
+### Granville Festival - extensions
 1. Granville Festival [Instructions]({{ site.baseurl }}/06excel/Granville_Festival.doc "Download this and follow the instructions in the document to get started with the Festival Task")
 2. Granville Festival [Spreadsheet]({{ site.baseurl }}/06excel/Granville_Festival_task.xls "Download this and follow the instructions in the above document ")
-2. Class grades [Spreadsheet]({{ site.baseurl }}/06excel/classxx_grades.xlsx "Download this and follow the instructions in the spreadsheet ")
-2. cat simple [Spreadsheet]({{ site.baseurl }}/06excel/Cats_vlookup_simple.xls "Download this and follow the instructions in the spreadsheet ")
 
 
 
