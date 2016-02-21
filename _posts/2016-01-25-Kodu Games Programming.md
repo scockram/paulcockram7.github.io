@@ -4,9 +4,8 @@ layout: page
 ---
 Games Programming using KODU
 
-##Kodu
 
-![Alt]({{ site.baseurl }}/04kodu/kodu1.png 'Example of Kodu programming')
+![Alt textl]({{ site.baseurl }}/04kodu/Kodu1.jpg "Eample of Kodu Programming")
 
 
 ## Games Programming using KODU
