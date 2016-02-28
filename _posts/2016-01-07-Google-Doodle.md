@@ -11,7 +11,7 @@ Use FireWorks 8 to create a Google Logo
 
 ![Alt textl]({{ site.baseurl }}/01doodle/example completed simpson google.png "Example of a completed google doodle")
 
-Download the [instructions]({{ site.baseurl }}/01doodle/google simpson instruction.pdf "Instructions to create the doodle in Fireworks")
+Download the [instructions]({{ site.baseurl }}/01doodle/google simpson instruction.pdf "Instructions to create the doodle in Fireworks"){:target="_blank"}
 
 ### **Images you need to download**
 Use "Right Mouse Button" and Select "Save Image As" (or similar) to download the image to your computer

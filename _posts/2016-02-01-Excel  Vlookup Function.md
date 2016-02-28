@@ -18,7 +18,7 @@ Excel Spreadsheet function VLOOKUP
 2. cat simple [Spreadsheet]({{ site.baseurl }}/06excel/Cats vlookup simple.xls "Download this and follow the instructions in the spreadsheet ")
 
 ### Useful resources
-1. Excel [help]({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup")
+1. Excel [help]({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup"){:target="_blank"}
 
 What do you think HLOOKUP does ?
 
