@@ -23,7 +23,6 @@ Powerpoint Presentation Introduction
 
 ## ECDL Topics
 
-http://bishopsict2.wix.com/ecdlppt#!lesson-1-themes/cv02
 
 ### 1.THEMES
 
@@ -38,10 +37,58 @@ http://bishopsict2.wix.com/ecdlppt#!lesson-1-themes/cv02
 	
 		* You have been asked to make a PowerPoint theme which is suitable for the teachers at your school. You will use the theme over the next few lessons to create a presentation which will be used to show teachers how to use the advanced features of PowerPoint. Look at the [lesson PowerPoint]({{ site.baseurl}}/07pat/ECDLtheme.pptx "Download this for instructions ") for instructions.
 
-		![Alt textl]({{ site.baseurl }}/07pat/masterslide1.png "PowerPoint Slide Master" )
+		* ![Alt textl]({{ site.baseurl }}/07pat/masterslide1.png "PowerPoint Slide Master" )
 
 	* **Plenary**
 		* Using your theme you will begin to create your guide. Include slides on the skills you have learned this lesson. This [example]({{ site.baseurl}}/07pat/Example.pptx "Download this for an example / starting point ") may help you. 
+
+### 2.GRAPHS
+
+- Create a graph or chart
+- Change the graph type
+- Format the colours and information shown
+
+
+	* **Starter**
+		* Click on the [Link](http://homepage.ntlworld.com/padickinson/HTML6/PowerPoint%20Quiz.htm){:target="_blank"} to go to the quiz (maximum of 10 mins)
+
+	* **Task**
+
+		
+	
+		* Graphs and charts are really useful for adding simple information to your presentation. You will now create a chart showing the merits that have been received. You will also format the layout and design of the chart to improve how it looks.
+ Look at the [lesson PowerPoint]({{ site.baseurl}}/07pat/ECDLgraph.pptx "Download this for instructions ") for instructions.
+		* ![Alt textl]({{ site.baseurl }}/07pat/DefaultGraph.png "PowerPoint The Default graph created" )
+		* ![Alt textl]({{ site.baseurl }}/07pat/DefaultExcel.png "Paste table date from Powerpoint into Excel, then adjust size, return to Excel" )
+
+	* **Plenary**
+
+		* Using the teacher's guide you started creating last lesson you need to add the following additional slides:
+
+			1. How to create a graph
+			2. How to change the graph type
+			3. How to format colours and chart design
+
+### 3.HIERACHIES
+
+- Create an organisation chart
+- Add and remove people from the chart
+- Promote and demote people
+
+	* **Starter**
+		* PlaceHolder
+
+	* **Task**
+		* Hierarchies are used to show the position of people in a business or organisation. You will now create an organisation chart and format its appearance and layout in PowerPoint.Look at the [lesson PowerPoint]({{ site.baseurl}}/07pat/ECDLhierachy.pptx "Download this for instructions ") for instructions.
+		* ![Alt textl]({{ site.baseurl }}/07pat/hier1.png "Hierachy Diagram" )
+
+	* **Plenary**
+
+		* Using the teacher's guide you have started creating, you need to add the following additional slides:
+
+			1. How to insert an organisation chart
+			2. How to add and remove boxes
+			3. How to promote and demote boxes
 
 
 
