@@ -90,6 +90,12 @@ Powerpoint Presentation Introduction
 			2. How to add and remove boxes
 			3. How to promote and demote boxes
 
+## Other Resources
+
+- This [WebSite](http://www.gcflearnfree.org/office2013/powerpoint2013){:target="_blank"} has over 30 Powerpoint tutorials covering all aspects of the software
+- ECDL [document]({{ site.baseurl}}/07pat/Syllabus content - Presentations (Level 2).pdf "Official Document from ECDL which shows all items to be covered "){:target="_blank"} for the PowerPoint syllabus.
+
+
 
 
 
