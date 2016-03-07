@@ -41,6 +41,7 @@ Powerpoint Presentation Introduction
 
 	* **Plenary**
 		* Using your theme you will begin to create your guide. Include slides on the skills you have learned this lesson. This [example]({{ site.baseurl}}/07pat/Example.pptx "Download this for an example / starting point ") may help you. 
+		* ![Alt textl]({{ site.baseurl }}/07pat/rag_theme.png "Self Assessment CheckList Items" )
 
 ### 2.GRAPHS
 
@@ -68,6 +69,7 @@ Powerpoint Presentation Introduction
 			1. How to create a graph
 			2. How to change the graph type
 			3. How to format colours and chart design
+			4. ![Alt textl]({{ site.baseurl }}/07pat/rag_format_chart.png "Self Assessment CheckList Items" )
 
 ### 3.HIERACHIES
 
@@ -89,11 +91,13 @@ Powerpoint Presentation Introduction
 			1. How to insert an organisation chart
 			2. How to add and remove boxes
 			3. How to promote and demote boxes
+			4. ![Alt textl]({{ site.baseurl }}/07pat/rag_org_chart.png "Self Assessment CheckList Items" )
 
 ## Other Resources
 
 - This [WebSite](http://www.gcflearnfree.org/office2013/powerpoint2013){:target="_blank"} has over 30 Powerpoint tutorials covering all aspects of the software
 - ECDL [document]({{ site.baseurl}}/07pat/Syllabus content - Presentations (Level 2).pdf "Official Document from ECDL which shows all items to be covered "){:target="_blank"} for the PowerPoint syllabus.
+- Self Assessment [Checklist]({{ site.baseurl}}/07pat/RAG - Self Assessment (PowerPoint).docx "RAG Self Assessment Check List of Powerpoint Items")
 
 
 
