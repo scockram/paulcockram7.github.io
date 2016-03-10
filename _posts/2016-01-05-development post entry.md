@@ -42,10 +42,10 @@ Content in the first column | Content in the second column
 <th>Table Header</th><th>Table Header</th>
 </tr>
 <tr>
-<td>Table cell 1</td><td>Table cell 2</td>
+<td>Table cell 1xx</td><td>Table cell 2xx</td>
 </tr>
 <tr>
-<td>Table cell 3</td><td>Table cell 4</td>
+<td>Table cell 3xx</td><td>Table cell 4xx</td>
 </tr>
 </table>
 

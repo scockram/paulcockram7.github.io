@@ -16,11 +16,11 @@ Download the [instructions]({{ site.baseurl }}/01doodle/google simpson instructi
 ### **Images you need to download**
 Use "Right Mouse Button" and Select "Save Image As" (or similar) to download the image to your computer
 
-####Pizza
+#### Pizza
 
 ![Alt textl]({{ site.baseurl }}/01doodle/pizza.png "Pizza to be downloaded") 
-
-####Donut
+ 
+#### Donut
 
 ![Alt textl]({{ site.baseurl }}/01doodle/donut.png "Donut to be downloaded")
 
