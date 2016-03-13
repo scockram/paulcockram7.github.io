@@ -21,6 +21,14 @@ Powerpoint Presentation Introduction
 
 ![Alt textl]({{ site.baseurl }}/07pat/secondpres.jpg "Pats Presentation - third" )
 
+### Online Cyber Safety Presentation - very poor
+
+- Online Cyber Safety [Powerpoint]({{ site.baseurl}}/07pat/Online Cyber Safety.pptx "Download this and review this presentation ") Presentation
+
+- Online Cyber Safety [Review Sheet]({{ site.baseurl}}/07pat/Online Cyber Swork sheet.docx "Worksheet to Record the review of the above presentation ") 
+
+![Alt textl]({{ site.baseurl }}/07pat/pptcyber1.png "Example slide from the Online Cyber Safety Presentation" )
+
 ## ECDL Topics
 
 
