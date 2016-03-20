@@ -2,10 +2,10 @@
 published: true
 layout: page
 ---
-Powerpoint Presentation Introduction
+Powerpoint Presentation 
 
 
-## Powerpoint Presentation Introduction
+## Powerpoint Presentation 
 
 ![Alt textl]({{ site.baseurl }}/07pat/firstpres.jpg "Pats Presentation - first" )
 
@@ -101,14 +101,37 @@ Powerpoint Presentation Introduction
 			3. How to promote and demote boxes
 			4. ![Alt textl]({{ site.baseurl }}/07pat/rag_org_chart.png "Self Assessment CheckList Items" )
 
+### 4.TABLES
+
+- Create a Table in a Powerpoint Slide
+- Select the different parts of this table
+- Add , modify and delete rows and columns of this table
+- Enter data into this table
+
+	* **Starter**
+		* PowerPoint Tables Instruction [Video]({{ site.baseurl }}/07pat/PowerPoint 2013 Tables.mp4 "Watch this video "){:target="_blank"}
+
+	* **Task**
+		* Tables are used to present moderate data on a PowerPoint Slide. You will now create a table  and format its appearance, content and layout in PowerPoint. Look at the [lesson PowerPoint]({{ site.baseurl}}/07pat/ECDLtable.pptx "Download this for instructions ") for instructions.
+		* ![Alt textl]({{ site.baseurl }}/07pat/tablefinal.png "Example Table in PowerPoint" )
+
+	* **Plenary**
+
+		* Using the teacher's guide you have started creating, you need to add the following additional slides:
+
+			1. How to insert a Table of data
+			2. How to add and remove rows and columns
+			3. How to change the cell width/height and merge two cells together
+			4. How to change the appearance of the table from the table Style ribbon
+			5. ![Alt textl]({{ site.baseurl }}/07pat/Tableplenary1.png "Self Assessment CheckList Items" )
+
+
+
 ## Other Resources
 
 - This [WebSite](http://www.gcflearnfree.org/office2013/powerpoint2013){:target="_blank"} has over 30 Powerpoint tutorials covering all aspects of the software
 - ECDL [document]({{ site.baseurl}}/07pat/Syllabus content - Presentations (Level 2).pdf "Official Document from ECDL which shows all items to be covered "){:target="_blank"} for the PowerPoint syllabus.
 - Self Assessment [Checklist]({{ site.baseurl}}/07pat/RAG - Self Assessment (PowerPoint).docx "RAG Self Assessment Check List of Powerpoint Items")
-
-
-
 
 
 	
