@@ -110,6 +110,7 @@ Powerpoint Presentation
 
 	* **Starter**
 		* PowerPoint Tables Instruction [Video]({{ site.baseurl }}/07pat/PowerPoint 2013 Tables.mp4 "Watch this video "){:target="_blank"}
+		* Table [Instructions Link](http://www.gcflearnfree.org/office2013/powerpoint2013/23 "read this Web Based Lesson"){:target="_blank"} in PowerPoint
 
 	* **Task**
 		* Tables are used to present moderate data on a PowerPoint Slide. You will now create a table  and format its appearance, content and layout in PowerPoint. Look at the [lesson PowerPoint]({{ site.baseurl}}/07pat/ECDLtable.pptx "Download this for instructions ") for instructions.
