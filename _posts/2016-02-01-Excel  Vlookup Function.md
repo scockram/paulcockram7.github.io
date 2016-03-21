@@ -7,15 +7,17 @@ Excel Spreadsheet function VLOOKUP
 
 ![Alt textl]({{ site.baseurl }}/images/05vlookup1.jpg "Example of Vlookup function results")
 
+* Vlookup [Instructions Link](http://www.gcflearnfree.org/excel-tips/how-to-use-excels-vlookup-function "read this Web Based Lesson"){:target="_blank"} for the Excel function
 
 ## Excel Spreadsheet function VLOOKUP
 
 ### Exercises
 
+2. cat simple [Spreadsheet]({{ site.baseurl }}/06excel/Cats vlookup simple.xls "Download this and follow the instructions in the spreadsheet ")
 1. Vlookup [Instructions]({{ site.baseurl }}/05vlookup/Instructions_Catnip_Vlookup.doc "Download this and follow the instructions in the document to get started using the Vlookup Function")
 2. Blank [Spreadsheet]({{ site.baseurl }}/05vlookup/Orig_Catnip_VLookup.xlsx "Download this and follow the instructions in the previous document to implement the vlookup function")
 2. Class grades [Spreadsheet]({{ site.baseurl }}/06excel/classxx grades.xlsx "Download this and follow the instructions in the spreadsheet ")
-2. cat simple [Spreadsheet]({{ site.baseurl }}/06excel/Cats vlookup simple.xls "Download this and follow the instructions in the spreadsheet ")
+
 
 ### Useful resources
 1. Excel [help]({{ site.baseurl }}/05vlookup/vlookup_excel_help.pdf "Inbuilt Excel Help for Vlookup"){:target="_blank"}
