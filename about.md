@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 ## UNDER CONSTRUCTION
+
 ![Alt textl]({{ site.baseurl }}/images/Page_Under_Construction.png "Under Construction")
+
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
